@@ -1,3 +1,2 @@
-# TRUTH or DARE
-
-- This project consist of creating a web appication called  `TRUTH or DARE` which is mainly play by youths in order to have fun
+# re-sale-web
+`Resale-web is a web application use to sell or resell products around the world mainly second-hand products as well as newly products` 
